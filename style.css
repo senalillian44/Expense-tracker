@@ -88,6 +88,7 @@ h4 {
 label {
     display: inline-block;
     margin: 10px 0;
+    padding: 5px;
 }
 
 input[type="text"]
@@ -163,4 +164,5 @@ input[type="number"] {
 
 .list li:hover .delete-btn {
     opacity: 1;
+
 }
